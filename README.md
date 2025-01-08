@@ -1,6 +1,7 @@
-> **代码提供有偿远程调试，包启动成功！不管你有没有运行环境，哪怕你是刚买的新电脑，也包启动运行成功！提供有偿讲解，有不懂的地方随便问！问到会为止！**
-## 源码获取(4.9元扫码获取)：
-![_cgi-bin_mmwebwx-bin_webwxgetmsgimg__ MsgID=4116187246991582744 skey=@crypt_36078110_072a98cd7c66999bf848c6d753d527ac mmweb_appid=wx_webfilehelper](https://github.com/user-attachments/assets/7e4a18c2-7f5b-475c-af12-df3ef25d5947)
+## 源码4.9元扫码或＋V：a1719101159获取（4.9元包含代码+数据库文件+有的送报告文档）；提供有偿远程调试，29元包启动成功！提供有偿讲解，有不懂的地方随便问！问到会为止；
+## ⭐代码截图、功能效果截图在二维码下面⭐：
+### 
+![微信图片_20241218164848](https://github.com/user-attachments/assets/646b2784-afb8-47ee-a4d4-5ccc9f96b331)
 
 
 ## 【功能介绍】
